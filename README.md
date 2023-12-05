@@ -8,6 +8,7 @@ I have refractored the html and css, added semantic elements and commented the c
 
 The website is now accessible via the use of a screen reader and the code is ordered and easy to read.
 
+The website can be view [here](https://duouk2000.github.io/marketing-code-refactoring/)
 
 ## Installation
 
