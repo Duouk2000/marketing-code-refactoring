@@ -22,13 +22,12 @@ This website can be accessed as normal or with the use of a screenreader such as
     
 ## Credits
 
-[w3schools](https://www.w3schools.com/html/default.asp)
-
+- Websites used to review and test HTML elements and CSS properties - [w3schools](https://www.w3schools.com/html/default.asp) /
 [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
-[stack overflow](https://stackoverflow.com/)
+- Code was considated in CSS on line 72, 123 and 134 after viewing the example at  [stack overflow](https://stackoverflow.com/questions/72525987/how-can-i-combine-css-code-with-similar-class#:~:text=You%20can%20use%20commas%20to,used%20for%20the%20div%20tag).
 
-[Shields.io](https://shields.io/badges)
+- Websites reviewed to help  generate a badge - [Shields.io](https://shields.io/badges) & [lukas-h github](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
 
 
 ## License
@@ -45,6 +44,4 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ## Badges
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
